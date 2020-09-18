@@ -745,7 +745,7 @@ the license is included in gfdl.xml.
   </definition>
 
   <p>
-    If <m>A</m> has <m>n</m> columns, then it only makes sense to multiply <m>A</m> by vectors with <m>n</m> entries.  This is why the domain of <m>T(x)=Ax</m> is <m>\R^n</m>.  If <m>A</m> has <m>n</m> rows, then <m>Ax</m> has <m>m</m> entries for any vector <m>x</m> in <m>\R^n</m>; this is why the codomain of <m>T(x)=Ax</m> is <m>\R^m</m>.
+    If <m>A</m> has <m>n</m> columns, then it only makes sense to multiply <m>A</m> by vectors with <m>n</m> entries.  This is why the domain of <m>T(x)=Ax</m> is <m>\R^n</m>.  If <m>A</m> has <m>m</m> rows, then <m>Ax</m> has <m>m</m> entries for any vector <m>x</m> in <m>\R^n</m>; this is why the codomain of <m>T(x)=Ax</m> is <m>\R^m</m>.
   </p>
 
   <p>
